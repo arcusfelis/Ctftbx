@@ -1,0 +1,30 @@
+
+Introduction
+---------------------------------------
+
+The ANSI C Time-Frequency toolbox is a package aimed at computing
+time-frequency representations. One the one hand, it is an extension
+of the Time-Frequency toolbox for use with Matlab
+      http://crttsn.univ-nantes.fr/~auger/tftb.html 
+
+since it provides some accelarated functions, and new ones. On the
+other hand, this package provides C language sources that can be
+included in any program.
+
+Most of the functions are similar to those programmed in the
+Time-Frequency toolbox for use with Matlab, and can be used in a
+similar way. As it is programmed in C language, its use with Matlab
+requires a ANSI C language compiler, compatible with your version of
+Matlab.
+
+WARNING: THIS DISTRIBUTION IS A BETA VERSION, WHICH MAY HAVE BUGS! THE
+AUTHORS DECLINE RESPONSABILITY FOR ANY PROBLEM CAUSED BY THIS PACKAGE}
+
+Installation
+----------------------------------------
+Please read the Ctftbinst.ps or Ctftbinst.pdf file
+
+Reference Guide
+----------------------------------------
+The installation guide also contains some informations conserning the
+new functions
